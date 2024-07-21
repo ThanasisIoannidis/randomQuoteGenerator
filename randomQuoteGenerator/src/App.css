@@ -1,0 +1,11 @@
+/* src/App.css */
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: hsla(0, 0%, 31%, 0.699);
+  color: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
